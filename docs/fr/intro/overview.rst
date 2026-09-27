@@ -7,6 +7,9 @@
 Scrapy en un coup d'œil
 =========================
 
+.. tip::
+   Vous ne voulez pas écrire de code vous-même ? Le guide :doc:`../guide-claude` explique comment faire écrire vos spiders par Claude, sans avoir besoin de lire cette page technique en détail.
+
 Scrapy (/ˈskreɪpaɪ/) est un framework d'application qui sert à parcourir
 (« crawler ») des sites web et à en extraire des données structurées. Ces
 données peuvent être utilisées dans un grand nombre d'applications utiles,

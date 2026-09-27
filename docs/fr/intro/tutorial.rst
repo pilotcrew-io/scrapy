@@ -7,6 +7,9 @@
 Tutoriel Scrapy
 ===============
 
+.. tip::
+   Vous voulez vous faire aider par Claude plutôt qu'écrire ce code vous-même ? Le guide :doc:`../guide-claude` est fait pour ça.
+
 Dans ce tutoriel, nous supposons que Scrapy est déjà installé sur votre système.
 Si ce n'est pas le cas, consultez :ref:`intro-install`.
 

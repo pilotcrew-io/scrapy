@@ -49,7 +49,10 @@ Installez avec :
 
     pip install scrapy
 
-Puis suivez la documentation_ pour apprendre à l'utiliser.
+Puis suivez la documentation_ pour apprendre à l'utiliser. Si vous découvrez
+Scrapy et comptez vous faire aider par Claude pour écrire vos spiders, le
+`guide Utiliser Scrapy avec Claude <docs/fr/guide-claude.rst>`_ est un
+meilleur point de départ.
 
 .. _documentation: https://docs.scrapy.org/en/latest/
 
